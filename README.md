@@ -3,7 +3,7 @@ Python version of LKH algorithm for TSP problem. Only for study.
 
 usage:
 ```
-python main.py -p vlsi/xqf131.tsp 
+>>> python main.py -p vlsi/xqf131.tsp 
 finish ascent, w=555.71, deg=18
 * 0 : 596
 * 1 : 586
